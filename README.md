@@ -18,6 +18,7 @@ Interactive use: `docker run -it  --name ls2_tools --user neo ls2_tools /bin/bas
 
 Setup Easybuild environment:
 
-```source /app/lmod/lmod/init/bash
+```
+source /app/lmod/lmod/init/bash
 module use /app/modules/all
 module load EasyBuild```
