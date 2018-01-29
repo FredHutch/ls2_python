@@ -21,4 +21,5 @@ Setup Easybuild environment:
 ```
 source /app/lmod/lmod/init/bash
 module use /app/modules/all
-module load EasyBuild```
+module load EasyBuild
+```
