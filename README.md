@@ -18,6 +18,6 @@ Interactive use: `docker run -it  --name ls2_tools --user neo ls2_tools /bin/bas
 
 Setup Easybuild environment:
 
-```source /home/neo/.local/lmod/lmod/init/bash
-module use /home/neo/.local/easybuild/modules/all
-module load R/3.4.3-foss-2016b-fh2```
+```source /app/lmod/lmod/init/bash
+module use /app/modules/all
+module load EasyBuild```
